@@ -1,25 +1,28 @@
-## Hi there 👋
+<div align="center">
 
-# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG1xM3F1M2VvZDNjOGNwNm9jdHdjcThhYTZjc2p1dTd6YjJ0cDQ5NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xTiTnxpQ3ghPiB2Hp6/giphy.gif" width="40"> Hey there! I'm **[Your Name]**
+# 🌸 Hi, I'm Aaliya! 🌸
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Aspiring+AI+Engineer+🤖;Machine+Learning+Enthusiast+🧠;Building+Dreams+with+Code+💻;Powered+by+Coffee+%26+A+Cat+🐈" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=700&size=26&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Aspiring+AI+Engineer+%F0%9F%A4%96;Machine+Learning+Enthusiast+%F0%9F%A7%A0;Building+Cute+Things+with+Code+%F0%9F%92%97;Powered+by+Coffee+%26+Cats+%F0%9F%90%B1" />
 
-<p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="280"/>
-</p>
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="250"/>
+
+<img src="https://img.shields.io/badge/AI%20Engineer%20in%20Progress-FFB6C1?style=for-the-badge&logo=OpenAI&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-Lover-FF69B4?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cat%20Person-FFC0CB?style=for-the-badge&logo=githubsponsors&logoColor=white"/>
+
+</div>
 
 ---
 
-## 🌸 About Me
+## 🌷 About Me
 
 ```python
-class GirlInTech:
+class Aaliya:
+
     def __init__(self):
         self.name = "Aaliya"
-        self.role = "Aspiring AI Engineer"
-        self.language = ["Python", "SQL", "Java"]
+        self.role = "Aspiring AI Engineer 🤖"
+        self.code = ["Python", "SQL", "Java"]
         self.learning = [
             "Machine Learning",
             "Deep Learning",
@@ -27,108 +30,115 @@ class GirlInTech:
             "LLMs",
             "Computer Vision"
         ]
-        self.cat = "🐈 Professional Debugging Assistant"
+        self.pronouns = "She/Her"
+        self.pet = "🐈 My tiny debugging assistant"
 
-    def dream(self):
-        return "Build AI that makes a difference ❤️"
+    def life_goal(self):
+        return "Build AI that makes the world a little smarter and a little kinder 💗"
 ```
 
 ---
 
-## 🌱 Currently Learning
+## 🌸 Currently Learning
 
-- 🤖 Artificial Intelligence
-- 🧠 Machine Learning
-- 🔥 Deep Learning
-- 💬 Natural Language Processing
-- 👁 Computer Vision
-- ☁️ MLOps & Cloud
-- 📊 Data Science
+🌷 Artificial Intelligence
+
+🌷 Machine Learning
+
+🌷 Deep Learning
+
+🌷 Natural Language Processing
+
+🌷 Computer Vision
+
+🌷 Data Science
+
+🌷 MLOps
 
 ---
 
-## 🛠 Tech Stack
+## 🎀 Tech Stack
 
 ### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge)
+
+![Python](https://img.shields.io/badge/Python-FF69B4?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-FFB6C1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-FFC0CB?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ### AI & Data
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF69B4?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-FFB6C1?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-FFC0CB?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-FF69B4?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-FFB6C1?style=for-the-badge&logo=numpy&logoColor=white)
 
 ### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
+
+![Git](https://img.shields.io/badge/Git-FF69B4?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-FFC0CB?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-FFB6C1?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
-## 🐈 My Coding Buddy
+## 🐱 Meet My Coding Buddy
 
 ```text
  /\_/\\
-( •.• )
- >🍪
+( ˶• ༝ •˶ )
+/ >🎀
 
 Name: Mochi
-Occupation: Keyboard Warmer
-Skills:
-✔ Sleeping on laptop
-✔ Random keyboard shortcuts
-✔ Emotional support
-✔ Bug detection (sometimes)
+Occupation: Professional Keyboard Warmer
+
+♡ Sleeps through debugging
+♡ Judges my code silently
+♡ Demands snacks every hour
+♡ Believes every laptop belongs to her
 ```
 
 ---
 
-## 🎯 2026 Goals
+## 🌼 My Goals
 
-- 🌟 Master Machine Learning
-- 🚀 Build AI-powered applications
-- 🤝 Contribute to Open Source
-- 📚 Learn something new every day
-- 💼 Land my dream AI Engineer role
+🌸 Become an AI Engineer
 
----
+🌸 Build impactful AI projects
 
-## 📊 GitHub Stats
+🌸 Contribute to Open Source
 
-<p align="center">
+🌸 Keep learning every single day
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-
-</p>
+🌸 Never stop being curious 💕
 
 ---
 
-## 💖 Fun Fact
+## 📈 GitHub Stats
 
-> "Every great AI model starts with curiosity...
-> and every coding session starts with my cat stealing my chair."
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=Aaliya1811&show_icons=true&theme=dracula&hide_border=true&title_color=ff69b4&icon_color=ff69b4)
+
+![](https://streak-stats.demolab.com?user=Aaliya1811&theme=dracula&hide_border=true&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aaliya1811&layout=compact&theme=dracula&hide_border=true&title_color=ff69b4)
+
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/mlvseq9yvZhba/giphy.gif" width="220"/>
-</p>
+## 🌸 Quote I Live By
 
-<h3 align="center">
-✨ Thanks for visiting my profile! ✨
-</h3>
+> *"Small steps every day become extraordinary journeys."* 💗
 
-<p align="center">
-Always learning • Always building • Always accompanied by a cat 🐾
-</p>
+---
+
+<div align="center">
+
+### 💕 Thanks for stopping by! 💕
+
+*"Learning AI, writing Python, and collecting cat hair on my keyboard."* 🐈
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFC0CB&height=120&section=footer"/>
+
+</div>
