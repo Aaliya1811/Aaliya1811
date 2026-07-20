@@ -1,8 +1,7 @@
 <div align="center">
 
 # 🌷 ₊˚⊹ Hi, I'm **Aaliya**! ₊˚⊹
-
-<img src="<img src="https://media.tenor.com/8Qx9M4mR6xAAAAAC/anime-cat.gif" width="220"/> 
+<img src="https://media.tenor.com/8Qx9M4mR6xAAAAAC/anime-cat.gif" width="220"/>
 
 <img src="https://media.tenor.com/8Qx9M4mR6xAAAAAC/anime-cat.gif" width="260"/>
 
