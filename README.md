@@ -2,7 +2,7 @@
 
 # 🌷 ₊˚⊹ Hi, I'm **Aaliya**! ₊˚⊹
 
-<img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=700&size=28&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=🌸+Aspiring+AI+Engineer;🤖+Future+Machine+Learning+Engineer;💗+Learning,+Building,+Growing;🐈+Powered+by+Cats+%26+Coffee" />
+<img src="<img src="https://media.tenor.com/8Qx9M4mR6xAAAAAC/anime-cat.gif" width="220"/> 
 
 <img src="https://media.tenor.com/8Qx9M4mR6xAAAAAC/anime-cat.gif" width="260"/>
 
